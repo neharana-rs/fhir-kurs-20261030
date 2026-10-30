@@ -6,8 +6,8 @@
   "status" : "draft",
   "package-id" : "fhir.education.kursig",
   "ig-ver" : "0.1.0",
-  "date" : "Fri, 30 Oct, 2026 09:46:57 +0000",
-  "dateISO8601" : "2026-10-30T09:46:57+00:00",
+  "date" : "Fri, 30 Oct, 2026 09:59:22 +0000",
+  "dateISO8601" : "2026-10-30T09:59:22+00:00",
   "errs" : 0,
   "warnings" : 9,
   "hints" : 5,
@@ -16,5 +16,5 @@
   "suppressed-warnings" : 0,
   "version" : "4.0.1",
   "tool" : "6.0.0-snapshot1 (3)",
-  "maxMemory" : 655450912
+  "maxMemory" : 690778064
 }
